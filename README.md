@@ -1,6 +1,6 @@
 # EventManagement iOS App
 
-EventManagement is an iOS application built using **SwiftUI** to help users manage events. The app supports local data persistence using **Realm** and provides a clean, intuitive user interface for creating and listing events. The app is fully functional, adheres to the provided requirements, and supports both light and dark modes.
+EventManagement is an iOS application built using **SwiftUI** to help users manage events following MVVM Architecture. The app supports local data persistence using **Realm** and provides a clean, intuitive user interface for creating and listing events. The app is fully functional, adheres to the provided requirements, and supports both light and dark modes.
 
 ---
 
@@ -36,6 +36,7 @@ EventManagement is an iOS application built using **SwiftUI** to help users mana
 ### Technologies Used
 - **SwiftUI** for the UI and app design.
 - **Realm** for efficient local data persistence.
+- Followed **MVVM** architecture for file structuring.
 - Native **UIImagePickerController** for image/video selection.
 - **Custom Views** and layouts for responsiveness across devices and orientations.
 
