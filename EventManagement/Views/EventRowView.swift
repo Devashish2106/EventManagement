@@ -50,7 +50,7 @@ struct EventRowView: View {
                         )
                 }
             }
-            .frame(width: 160, height: 200) // Matches the size from the "else" case
+            .frame(width: 160, height: 200)
             .cornerRadius(8)
 
             Text(event.community)
